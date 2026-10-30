@@ -1,0 +1,6 @@
+{
+  "name": "PocketPal",
+  "description": "Intuitive and visually appealing pocket expense tracker for managing daily spending habits, goals, and real-time insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
